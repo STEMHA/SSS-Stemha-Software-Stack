@@ -14,3 +14,17 @@ List of Stemha Software Stack
 - Captura
   - a tool allows you to capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes
   - https://mathewsachin.github.io/Captura/
+## Writing tool
+- ESLWriter
+  - A paper writing helper, which is a search engine that shows how english words are used in published papers.
+  - http://www.eslwriter.org/
+## Privacy protection tool
+- Process Monitor
+    - Show the event log of processes so that we could konw which process has done harmful things, like, scanning my private data.
+    - https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+- BleachBit
+    - Destroy data
+    - https://www.bleachbit.org/
+- AESCrypt
+  - A simple and opinionated AES encrypt / decrypt Ruby gem that just works.
+  - https://github.com/Gurpartap/aescrypt
