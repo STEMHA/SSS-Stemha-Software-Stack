@@ -31,7 +31,11 @@ List of Stemha Software Stack
 - AESCrypt
   - A simple and opinionated AES encrypt / decrypt Ruby gem that just works.
   - https://github.com/Gurpartap/aescrypt
-## search tool
+## Search tool
 - Everything
   - a desktop search utility for Windows that can rapidly find files and folders by name.
   - https://www.voidtools.com/zh-cn/
+## Code editor
+- VS Code
+   - a code editor redefined and optimized for building and debugging modern web and cloud applications. Free. Built on open source. Runs everywhere.
+   - https://code.visualstudio.com/
